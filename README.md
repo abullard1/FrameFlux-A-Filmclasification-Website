@@ -174,7 +174,7 @@ https://github.com/UniRegensburg/mme-sose2023-projekte-movies/assets/62183826/15
 <br/>
 <br/>
 
-# Planned Changes
+# Possible Improvements
 - Finish Integration of Dataset Upload Functionality
 - Finish Integration of User Authentifcation Functionality
 - Less reliance on strings and movie names. Usage of **UUID** ***(Universally Unique Identifier)*** instead for movies.
