@@ -1,5 +1,5 @@
 # FrameFlux-A-Filmclassification-Website
-${\textsf{\color{red}WORK IN PROGRESS - CURRENTLY PUT ON HOLD - FILES WILL BE AVAILABLE SOON}}$
+${\textsf{\color{red}DEVELOPMENT DISCONTINUED INDEFINITELY - FILES WILL BE AVAILABLE SOON - FEEL FREE TO FORK THIS REPO OR USE ANYTHING YOU MIGHT FIND HELPFUL}}$
 <br/>
 <br/>
 **`FrameFlux`** is a **dataset visualization and analysis website for film frame classification data** gained from machine learning. Features include frame filtering with emotions, gender, age & objects trend visualization. Utilizes Bootstrap, Firebase and Google Charts.
